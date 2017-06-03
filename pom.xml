@@ -98,6 +98,7 @@
 
   <properties>
     <commons.componentid>launcher</commons.componentid>
+    <commons.module.name>org.apache.commons.launcher</commons.module.name>
     <commons.release.version>1.1</commons.release.version>
     <commons.binary.suffix></commons.binary.suffix>
     <commons.jira.id>LAUNCHER</commons.jira.id>
